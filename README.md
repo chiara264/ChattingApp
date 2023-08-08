@@ -12,3 +12,10 @@ HOW THE PROGRAMME WORKS:
 2. Choose room
 3. Click join chat
 
+FEATURES: 
+On the left column there are 2 sections:
+ - list of rooms available
+ - list of users connected
+ - send button
+ - leave room button 
+
